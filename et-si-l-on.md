@@ -3,7 +3,7 @@
 - Mesure: 6/8 
 ### Intro
 *guitare puis voix (tempo plus lent)*
-...au dessus des prisons plus de qu'en dira t'on...
+...aurions nous juste joueé, donné à faire pensé, au dessus des prisons plus de qu'en dira t'on...
 ### Refrain
 ```
 |crrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|
@@ -18,7 +18,8 @@ Vacillant sur une vague alternative, oscillant aussi lentement que possible,
 ```
 ### Couplet
 *pas de batterie*
-...je suis un captif en soif d'être, libéré...
+...je suis un captif en soif d'être, libéré... *break*
+### Refrain 2
 ```
 
 |crrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|rrrrrr|
