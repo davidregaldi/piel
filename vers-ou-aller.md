@@ -36,7 +36,7 @@
 ```
 *partie 3*
 ```
-|x-x-x-x-x-x-x-x-|x-x-x-x----xx-x-|x-x-x-x-x-xxx-x-|x-x-x-x-x---x-x-|
+|x-x-x-x-x-x-x-x-|x-x-x-x-----x-x-|x-x-x-x-x-xxx-x-|x-x-x-x-x---x-x-|
 |--------o-----o-|--------o-3-----|--------x-------|--------x-3-----|
 |o-----------o---|o---o-o---------|o---------o---o-|------o---------|
 relève le défis, rejoins moi, appel à tes oublis pour ne...
@@ -67,9 +67,24 @@ ne pas me laisser, vers l'insensé.
 ```
 
 ### Thème Guitare 1
+|c-rr-rr-r-rr-rrr|r-rr-rr-r-rr-rrr|c-rr-rr-r-rr-rrr|r-rr-rr-r-rr-rrr|ride
+
 ### Thème Guitare 2
+```
+|c-x-x-x-x-x-x-x-|x-x-x-x-x-xxx-x-|x-x-x-x-x-xxx-x-|x-x-x-x-x---x-x-|
+|--------x-------|--------x-------|--------x-------|--------x-3-----|
+|o---------o---o-|------o---o-----|o---------o---o-|------o---------|
+
+|c-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|c-x-x-x-x-xxx-x-|x-x-x-x-x-x-----|
+|--------x-------|--------o-------|--------x-------|--------x---3---|
+|o---------o---o-|------o---o-----|o---------o---o-|----o-o---o-----|
+```
 ### Break
+*même*
 ### Break 2
+|c-x-xxx-x-x-x-x-|^-x-x-x-x-x-x-x-|^^x-x-x-x-x-x-x-|^-x-x-x---c-x-x-|
+|----------------|----------------|----------------|--------o-------|
+|o-o-------------|o---------------|oo--------------|o-----o---o-----|
 ### Couplet 2
 ### Refrain 2
 ### Outro
