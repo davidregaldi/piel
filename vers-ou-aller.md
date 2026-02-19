@@ -82,9 +82,11 @@ ne pas me laisser, vers l'insensé.
 ### Break
 *même*
 ### Break 2
+```
 |c-x-xxx-x-x-x-x-|^-x-x-x-x-x-x-x-|^^x-x-x-x-x-x-x-|^-x-x-x---c-x-x-|
 |----------------|----------------|----------------|--------o-------|
 |o-o-------------|o---------------|oo--------------|o-----o---o-----|
+```
 ### Couplet 2
 ### Refrain 2
 ### Outro
