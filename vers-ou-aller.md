@@ -88,6 +88,9 @@ ne pas me laisser, vers l'insensé.
 |o-o-------------|o---------------|oo--------------|o-----o---o-----|
 ```
 ### Couplet 2
+*ride, dome tous les 4 rides*
 ### Refrain 2
+*charleston en gardant le tom*
 ### Outro
+*2 tournes plus calmes en claves*
 
