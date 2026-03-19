@@ -28,12 +28,12 @@
 *Binaire*
 ```
 |c-r-r-r-r-r-r-r-|r-r-rrr-r-r-r-r-|c-r-rrr-r-r-r-r-|r-r-r-r-r-r-r-r-|
-|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+|----o-------o---|----o----*--o---|----o-------o---|----o-------o---|
 |o--o----o-----o-|o-------o-------|o--o----o-----o-|o-------o-------|
 Et moi qui, voulait juste m'arrêter, voir la rivière couler, prendre un peu d'ailleurs et me 
                                                                                jeter à l'eau.
 |r-r-r-r-r-r-r-r-|r-r-rrr-r-r-r-r-|r-r-r-r-r-r-r-r-|r-r-rrr-r-r-----|r-----c---------|
-|----o-------o---|----o-------o---|----o-------o---|----o------o*oo-|---*o-----------|*soft
+|----o-------o---|----o----*--o---|----o-------o---|----o------o*oo-|---*o-----------|*soft
 |o----o--o-----o-|o-------o-------|o----o--o-----o-|o-------o-------|o-----o---------|
 Le temps ne sera plus, qu'eternité dans les nuages, aussi longtemps qu'un voyage, au plus 
                                                                       proche de l'imagination.
@@ -52,7 +52,7 @@ Le temps ne sera plus, qu'eternité dans les nuages, aussi longtemps qu'un voyag
 ### Couplet 2
 ```
 |c--x--x--x--|x--x--x--x--|x--x--x--x--|x--x--x--x--|
-|------o-----|------o-----|------o-----|--*---o-----|
+|------o-----|--*---o-----|------o-----|--*---o-----|
 |o----------o|o----------o|o----------o|o----------o|
 Des mots sont prononcés, pensés, organisés
 |x--x--x--x--|x--x--x--x--|x--x--x--x--|x--x--------|c--x--------|
